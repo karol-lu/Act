@@ -4,6 +4,9 @@ import './App.css'
 
 function App() {
   const [count, setCount] = useState(0)
+  const justForGiggles = []
+
+  console.log(justForGiggles)
 
   return (
     <div className="App">
